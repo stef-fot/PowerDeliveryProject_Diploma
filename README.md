@@ -58,7 +58,7 @@ It was developed as part of a thesis on embedded systems and power management.
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/usb-c-pd.git
+git clone https://github.com/stef-fot/usb-c-pd.git
 cd usb-c-pd
 ```
 
